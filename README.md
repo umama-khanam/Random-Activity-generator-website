@@ -28,6 +28,7 @@ A fun and interactive web application that helps users discover random activitie
 ---
 
 ## 📸 Preview
+Screenshot (2409).png
 
 > 
 
