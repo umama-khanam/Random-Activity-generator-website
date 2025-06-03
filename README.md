@@ -28,7 +28,7 @@ A fun and interactive web application that helps users discover random activitie
 ---
 
 ## 📸 Preview
-Screenshot (2409).png
+https://github.com/umama-khanam/Random-Activity-generator-website/commit/4a7d3822ee9b95c02f46f99402f77c328eceb949
 
 > 
 
