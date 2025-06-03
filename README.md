@@ -31,7 +31,7 @@ A fun and interactive web application that helps users discover random activitie
 
 Here’s how the homepage of the Random Activity Generator looks:
 
-![Homepage Screenshot](files/screenshot.png)
+![Homepage Screenshot](Screenshot (2409).png)
 
 
 > 
