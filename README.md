@@ -1,5 +1,3 @@
-# Random-Activity-website
-this is a website built to show the user any random activity whenever they are bored or need some activity suggestion to do..
 # 🎲 Random Activity Generator website 
 
 A fun and interactive web application that helps users discover random activities based on the number of participants and category preferences. Built with **Node.js**, **Express.js**, and **EJS**, it fetches real-time data using the **Bored API** and showcases the use of **middlewares**, **body-parser**, **Axios**, and **async/await** with **error handling**.
